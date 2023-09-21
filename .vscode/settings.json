@@ -1,0 +1,5 @@
+{
+    "dotnet.defaultSolution": "EntitiesSync.sln",
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 140,
+}
